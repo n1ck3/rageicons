@@ -12,9 +12,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[disappoint]</string>
-                    <string>[son]</string>
                     <string>**son</string>
+                    <string>**dissappoint</string>
                 </array>
                 <key>Name</key>
                 <string>Angry - Dissappointed</string>
@@ -24,8 +23,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[esmile]</string>
-                    <string>[evilsmile]</string>
+                    <string>**evilsmile</string>
                     <string>**:></string>
                 </array>
                 <key>Name</key>
@@ -36,8 +34,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[frown]</string>
-                    <string>[evilfrown]</string>
+                    <string>**frown</string>
                     <string>**:|</string>
                     <string>**:/</string>
                 </array>
@@ -49,7 +46,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[no]</string>
                     <string>**no</string>
                 </array>
                 <key>Name</key>
@@ -60,7 +56,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[shaking]</string>
+                    <string>**shaking</string>
                     <string>**:((</string>
                 </array>
                 <key>Name</key>
@@ -71,7 +67,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[stare]</string>
+                    <string>**8-|</string>
                     <string>**stare</string>
                 </array>
                 <key>Name</key>
@@ -82,7 +78,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[unhappy]</string>
+                    <string>**unhappy</string>
                     <string>**:(</string>
                 </array>
                 <key>Name</key>
@@ -93,9 +89,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[why]</string>
-                    <string>[why?]</string>
                     <string>**why</string>
+                    <string>**why?</string>
                 </array>
                 <key>Name</key>
                 <string>Angry - Why?</string>
@@ -105,8 +100,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[uwin]</string>
-                    <string>[youwin]</string>
                     <string>**uwin</string>
                     <string>**youwin</string>
                 </array>
@@ -118,8 +111,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[cry]</string>
-                    <string>[crying]</string>
+                    <string>**cry</string>
+                    <string>**crying</string>
                     <string>**;(</string>
                     <string>**;((</string>
                 </array>
@@ -131,8 +124,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[comeon]</string>
-                    <string>[dude]</string>
+                    <string>**comeon</string>
                     <string>**dude</string>
                 </array>
                 <key>Name</key>
@@ -143,9 +135,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[watching]</string>
-                    <string>[imwatchingyou]</string>
-                    <string>[iamwatchingyou]</string>
                     <string>**watching</string>
                     <string>**watchingyou</string>
                 </array>
@@ -157,7 +146,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[yuno]</string>
                     <string>**yuno</string>
                 </array>
                 <key>Name</key>
@@ -168,10 +156,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[accepted]</string>
-                    <string>[challenge]</string>
-                    <string>[challengeaccepted]</string>
                     <string>**accepted</string>
+                    <string>**challenge**</string>
+                    <string>**challengeaccepted</string>
                 </array>
                 <key>Name</key>
                 <string>Determined - Challenge accepted</string>
@@ -181,7 +168,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[compstare]</string>
                     <string>**compstare</string>
                 </array>
                 <key>Name</key>
@@ -192,9 +178,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ninja]</string>
-                    <string>[likeaninja]</string>
                     <string>**ninja</string>
+                    <string>**likeaninja</string>
                 </array>
                 <key>Name</key>
                 <string>Determined - Like a ninja</string>
@@ -204,7 +189,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[notok]</string>
                     <string>**notok</string>
                 </array>
                 <key>Name</key>
@@ -215,8 +199,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[notoksmile]</string>
+                    <string>**notok</string>
                     <string>**notok:)</string>
+                    <string>**notoksmile</string>
                 </array>
                 <key>Name</key>
                 <string>Determined - Not OK smile</string>
@@ -226,8 +211,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[hmm]</string>
-                    <string>[ponder]</string>
+                    <string>**ponder</string>
                     <string>**hmm</string>
                 </array>
                 <key>Name</key>
@@ -238,9 +222,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[soclose]</string>
-                    <string>[almost]</string>
                     <string>**soclose</string>
+                    <string>**almost</string>
                 </array>
                 <key>Name</key>
                 <string>Disapponted - So close</string>
@@ -250,8 +233,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[imp]</string>
-                    <string>[impossibru]</string>
                     <string>**imp</string>
                     <string>**impossibru</string>
                 </array>
@@ -263,8 +244,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[mog]</string>
-                    <string>[motherofgod]</string>
                     <string>**mog</string>
                     <string>**motherofgod</string>
                 </array>
@@ -276,8 +255,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ogw]</string>
-                    <string>[ohgodwhy]</string>
                     <string>**ogw</string>
                     <string>**ohgodwhy</string>
                 </array>
@@ -289,8 +266,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[og]</string>
-                    <string>[ohgod]</string>
                     <string>**og</string>
                     <string>**ohgod</string>
                 </array>
@@ -302,7 +277,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[schlick]</string>
                     <string>**schlick</string>
                 </array>
                 <key>Name</key>
@@ -313,8 +287,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[sirfap]</string>
-                    <string>[fapsir]</string>
                     <string>**sirfap</string>
                 </array>
                 <key>Name</key>
@@ -325,8 +297,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[fap]</string>
-                    <string>[fapfapfap]</string>
                     <string>**fap</string>
                 </array>
                 <key>Name</key>
@@ -337,11 +307,11 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[al1smile]</string>
-                    <string>[al1happy]</string>
-                    <string>[happyal1]</string>
-                    <string>[smileal1]</string>
                     <string>**al1:)</string>
+                    <string>**al1smile</string>
+                    <string>**al1happy</string>
+                    <string>**happyal1</string>
+                    <string>**smileal1</string>
                 </array>
                 <key>Name</key>
                 <string>Forever alone - Happy</string>
@@ -351,10 +321,10 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[foreveralone]</string>
-                    <string>[al1]</string>
-                    <string>[trout]</string>
+                    <string>**foreveralone</string>
                     <string>**al1</string>
+                    <string>**trout</string>
+                    <string>**trout1</string>
                 </array>
                 <key>Name</key>
                 <string>Forever alone - Forever alone</string>
@@ -364,9 +334,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[fuckthatscared]</string>
-                    <string>[scared]</string>
                     <string>**scared</string>
+                    <string>**fuckthatscared</string>
                 </array>
                 <key>Name</key>
                 <string>Fuck that - Scared</string>
@@ -376,9 +345,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ft]</string>
-                    <string>[fuckthat]</string>
                     <string>**ft</string>
+                    <string>**fuckthat</string>
                 </array>
                 <key>Name</key>
                 <string>Fuck that - Fuck that</string>
@@ -388,9 +356,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[awyeah]</string>
-                    <string>[yeah]</string>
                     <string>**yeah</string>
+                    <string>**awyeah</string>
                 </array>
                 <key>Name</key>
                 <string>Fuck that - Aww yeah!</string>
@@ -400,8 +367,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ce]</string>
-                    <string>[closeenough]</string>
+                    <string>**closeenough</string>
                     <string>**ce</string>
                 </array>
                 <key>Name</key>
@@ -412,8 +378,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[gtfo]</string>
-                    <string>[getthefuckout]</string>
+                    <string>**getthefuckout</string>
                     <string>**gtfo</string>
                 </array>
                 <key>Name</key>
@@ -424,7 +389,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[fuckyeah]</string>
                     <string>**fuckyeah</string>
                 </array>
                 <key>Name</key>
@@ -435,9 +399,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[happy]</string>
-                    <string>[bigsmile]</string>
                     <string>**:D</string>
+                    <string>**happy</string>
+                    <string>**bigsmile</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Big smile</string>
@@ -447,7 +411,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[cute]</string>
                     <string>**cute</string>
                 </array>
                 <key>Name</key>
@@ -458,11 +421,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[win]</string>
-                    <string>[epic]</string>
-                    <string>[epicwin]</string>
                     <string>**win</string>
                     <string>**epic</string>
+                    <string>**epicwin</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Epic win</string>
@@ -472,9 +433,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[better]</string>
-                    <string>[betterthan]</string>
-                    <string>[wentwell]</string>
+                    <string>**better</string>
+                    <string>**betterthan</string>
                     <string>**wentwell</string>
                 </array>
                 <key>Name</key>
@@ -485,7 +445,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[grin]</string>
+                    <string>**grin</string>
                     <string>**:#</string>
                 </array>
                 <key>Name</key>
@@ -496,7 +456,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[isee]</string>
                     <string>**isee</string>
                 </array>
                 <key>Name</key>
@@ -507,10 +466,10 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[neveralone]</string>
                     <string>**na</string>
                     <string>**nal1</string>
                     <string>**neveral1</string>
+                    <string>**neveralone</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Never alone</string>
@@ -520,11 +479,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[pf]</string>
-                    <string>[pff]</string>
-                    <string>[pfff]</string>
                     <string>**pf</string>
                     <string>**pff</string>
+                    <string>**pfff</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Pffffchh</string>
@@ -534,8 +491,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[smile]</string>
                     <string>**:)</string>
+                    <string>**smile</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Smile</string>
@@ -545,9 +502,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[smile1]</string>
-                    <string>[smilee]</string>
                     <string>**:))</string>
+                    <string>**smile1</string>
+                    <string>**smilee</string>
                 </array>
                 <key>Name</key>
                 <string>Happy - Smile</string>
@@ -557,7 +514,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[success]</string>
                     <string>**success</string>
                 </array>
                 <key>Name</key>
@@ -568,7 +524,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[yes]</string>
                     <string>**yes</string>
                 </array>
                 <key>Name</key>
@@ -579,7 +534,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[lol]</string>
                     <string>**lol</string>
                     <string>**:oo</string>
                 </array>
@@ -591,7 +545,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ooo]</string>
                     <string>**ooo</string>
                     <string>**:o</string>
                 </array>
@@ -603,8 +556,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[mgc]</string>
-                    <string>[megustacreep]</string>
                     <string>**mgc</string>
                     <string>**megustacreep</string>
                 </array>
@@ -616,7 +567,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ichmag]</string>
                     <string>**ichmag</string>
                 </array>
                 <key>Name</key>
@@ -627,8 +577,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[nomegusta]</string>
-                    <string>[megustano]</string>
                     <string>**nomegusta</string>
                     <string>**megustano</string>
                 </array>
@@ -640,8 +588,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[mg]</string>
-                    <string>[megusta]</string>
                     <string>**mg</string>
                     <string>**megusta</string>
                 </array>
@@ -653,9 +599,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[att?]</string>
-                    <string>[allthethings?]</string>
                     <string>**att?</string>
+                    <string>**allthe?</string>
                     <string>**allthethings?</string>
                 </array>
                 <key>Name</key>
@@ -666,14 +611,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[att]</string>
-                    <string>[att!]</string>
-                    <string>[allthethings]</string>
-                    <string>[allthethings!]</string>
                     <string>**att</string>
-                    <string>**att!</string>
+                    <string>**allthe</string>
                     <string>**allthethings</string>
-                    <string>**allthethings!</string>
                 </array>
                 <key>Name</key>
                 <string>Misc - All the things!</string>
@@ -683,8 +623,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[kiddingme]</string>
                     <string>**kiddingme</string>
+                    <string>**feck</string>
                 </array>
                 <key>Name</key>
                 <string>Misc - Are you fucking kidding me?</string>
@@ -694,7 +634,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[drunk]</string>
                     <string>**drunk</string>
                 </array>
                 <key>Name</key>
@@ -705,29 +644,36 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[genius]</string>
                     <string>**genius</string>
                 </array>
                 <key>Name</key>
                 <string>Misc - Genius</string>
             </dict>
 
+            <key>misc-indeed.png</key>
+            <dict>
+                <key>Equivalents</key>
+                <array>
+                    <string>**indeed</string>
+                </array>
+                <key>Name</key>
+                <string>Misc - Indeed</string>
+            </dict>
+
             <key>misc-got-a-badass-over-here.png</key>
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[badass]</string>
                     <string>**badass</string>
                 </array>
                 <key>Name</key>
-                <string>Misc - We got a bad ass over herer</string>
+                <string>Misc - We got a bad ass over here</string>
             </dict>
 
             <key>misc-jackie-chan.png</key>
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[wtf]</string>
                     <string>**wtf</string>
                 </array>
                 <key>Name</key>
@@ -738,7 +684,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[notbad]</string>
                     <string>**notbad</string>
                 </array>
                 <key>Name</key>
@@ -749,8 +694,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[done]</string>
-                    <string>[nothingtodo]</string>
                     <string>**done</string>
                     <string>**nothingtodo</string>
                 </array>
@@ -762,8 +705,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[seriously]</string>
-                    <string>[seriously?]</string>
                     <string>**seriously</string>
                     <string>**seriously?</string>
                 </array>
@@ -775,8 +716,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[true]</string>
-                    <string>[truestory]</string>
                     <string>**true</string>
                     <string>**truestory</string>
                 </array>
@@ -788,10 +727,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[dontsay]</string>
-                    <string>[dontsay?]</string>
-                    <string>[youdontsay]</string>
-                    <string>[youdontsay?]</string>
                     <string>**dontsay</string>
                     <string>**dontsay?</string>
                     <string>**youdontsay</string>
@@ -805,8 +740,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[badpoker]</string>
-                    <string>[badpokerface]</string>
                     <string>**badpoker</string>
                     <string>**badpokerface</string>
                 </array>
@@ -818,8 +751,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[poker]</string>
-                    <string>[pokerface]</string>
                     <string>**poker</string>
                     <string>**pokerface</string>
                 </array>
@@ -827,12 +758,20 @@
                 <string>Misc - Poker face</string>
             </dict>
 
+            <key>misc-regret-nothing.png</key>
+            <dict>
+                <key>Equivalents</key>
+                <array>
+                    <string>**noregret</string>
+                </array>
+                <key>Name</key>
+                <string>Misc - Regret nothing</string>
+            </dict>
+
             <key>misc-sir.png</key>
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[sir]</string>
-                    <string>[likeasir]</string>
                     <string>**sir</string>
                     <string>**likeasir</string>
                 </array>
@@ -840,12 +779,20 @@
                 <string>Misc - Like a sir</string>
             </dict>
 
+            <key>misc-okay-pfftch.png</key>
+            <dict>
+                <key>Equivalents</key>
+                <array>
+                    <string>**okpf</string>
+                </array>
+                <key>Name</key>
+                <string>Misc - Okay pfftch</string>
+            </dict>
+
             <key>misc-okay.png</key>
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[ok]</string>
-                    <string>[okay]</string>
                     <string>**ok</string>
                     <string>**okay</string>
                 </array>
@@ -853,12 +800,21 @@
                 <string>Misc - Okay</string>
             </dict>
 
+            <key>misc-omg-run.png</key>
+            <dict>
+                <key>Equivalents</key>
+                <array>
+                    <string>**run</string>
+                    <string>**omgrun</string>
+                </array>
+                <key>Name</key>
+                <string>Misc - OMG RUN</string>
+            </dict>
+
             <key>rage-canadian.png</key>
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[canadian]</string>
-                    <string>[ragecanadian]</string>
                     <string>**canadian</string>
                     <string>**ragecanadian</string>
                 </array>
@@ -870,8 +826,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[rage]</string>
-                    <string>[rageclassic]</string>
                     <string>**;((</string>
                     <string>**rage</string>
                 </array>
@@ -883,8 +837,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[crazy]</string>
-                    <string>[ragecrazy]</string>
                     <string>**crazy</string>
                     <string>**ragecrazy</string>
                 </array>
@@ -896,9 +848,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[t-rex]</string>
-                    <string>[trex]</string>
-                    <string>[grr]</string>
                     <string>**trex</string>
                     <string>**grr</string>
                 </array>
@@ -910,8 +859,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[megarage]</string>
-                    <string>[grrr]</string>
+                    <string>**megarage</string>
                     <string>**grrr</string>
                 </array>
                 <key>Name</key>
@@ -922,7 +870,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[gasp]</string>
                     <string>**:O</string>
                     <string>**gasp</string>
                 </array>
@@ -934,9 +881,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[scott]</string>
-                    <string>[greatscott]</string>
                     <string>**scott</string>
+                    <string>**greatscott</string>
                 </array>
                 <key>Name</key>
                 <string>Surprised - Great Scott!</string>
@@ -946,7 +892,6 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[omfg]</string>
                     <string>**omfg</string>
                 </array>
                 <key>Name</key>
@@ -957,8 +902,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[omg]</string>
                     <string>**omg</string>
+                    <string>**flush</string>
                 </array>
                 <key>Name</key>
                 <string>Surprised - OMG</string>
@@ -968,11 +913,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[jesusdog]</string>
-                    <string>[sweetjesusdog]</string>
-                    <string>[dogjesus]</string>
-                    <string>[dogsweetjesus]</string>
+                    <string>**jd</string>
                     <string>**jesusdog</string>
+                    <string>**sweetjesusdog</string>
                 </array>
                 <key>Name</key>
                 <string>Sweet Jesus - Dog</string>
@@ -982,9 +925,9 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[jesus]</string>
-                    <string>[sweetjesus]</string>
                     <string>**sj</string>
+                    <string>**jesus</string>
+                    <string>**sweetjesus</string>
                 </array>
                 <key>Name</key>
                 <string>Sweet Jesus - Sweet Jesus</string>
@@ -994,9 +937,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[dadjump]</string>
-                    <string>[trolldadjump]</string>
                     <string>**dadjump</string>
+                    <string>**trolldadjump</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Troll dad jump</string>
@@ -1006,9 +948,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[dad]</string>
-                    <string>[trolldad]</string>
                     <string>**dad</string>
+                    <string>**trolldad</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Troll dad</string>
@@ -1018,9 +959,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[devil]</string>
-                    <string>[trolldevil]</string>
                     <string>**devil</string>
+                    <string>**trolldevil</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Troll devil</string>
@@ -1030,9 +970,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[douche]</string>
-                    <string>[trolldouche]</string>
                     <string>**douche</string>
+                    <string>**trolldouche</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Troll douche</string>
@@ -1042,11 +981,10 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[troll]</string>
-                    <string>[trollface]</string>
-                    <string>[problem]</string>
-                    <string>[problem?]</string>
                     <string>**troll</string>
+                    <string>**trollface</string>
+                    <string>**problem</string>
+                    <string>**problem?</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Trollface</string>
@@ -1056,9 +994,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[gay]</string>
-                    <string>[trollgay]</string>
                     <string>**gay</string>
+                    <string>**trollgay</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Troll gay</string>
@@ -1068,10 +1005,10 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[hyper]</string>
-                    <string>[hypertroll]</string>
-                    <string>[problem??]</string>
                     <string>**hyper</string>
+                    <string>**problem??</string>
+                    <string>**hypertroll</string>
+                    <string>**heyreddit</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Hyper troll</string>
@@ -1081,9 +1018,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[lie]</string>
-                    <string>[ilied]</string>
                     <string>**lie</string>
+                    <string>**ilied</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - I lied!</string>
@@ -1093,9 +1029,8 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[realtroll]</string>
-                    <string>[realistictroll]</string>
                     <string>**realtroll</string>
+                    <string>**realistictroll</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Realistic</string>
@@ -1105,8 +1040,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[trollol]</string>
-                    <string>**troll:o</string>
+                    <string>**trollol</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Trollol text</string>
@@ -1116,8 +1050,7 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[trolloo]</string>
-                    <string>**troll:oo</string>
+                    <string>**trolloo</string>
                 </array>
                 <key>Name</key>
                 <string>Troll - Trollol</string>
@@ -1127,11 +1060,11 @@
             <dict>
                 <key>Equivalents</key>
                 <array>
-                    <string>[rageicons]</string>
-                    <string>[icons]</string>
+                    <string>**rageicons</string>
+                    <string>**icons</string>
                 </array>
                 <key>Name</key>
-                <string>Rage icons Version 0.9 (2012-02-04)</string>
+                <string>Rage icons Version 0.9.1 (2012-03-14)</string>
             </dict>
 
         </dict>
